@@ -1,4 +1,2 @@
 /target/
-/itoche-buyer.iml
-/itoche-buyer-api.iml
-/itoche-buyer-service.iml
+*.iml
